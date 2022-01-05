@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 
-.fab {
+.fab, .fas {
     font-size: 3.5em;
     width: 80px;
 }
@@ -25,4 +25,8 @@ body {
 
 .fa-whatsapp {
     color: lime;
+}
+
+.fa-cat {
+    color: orange
 }
