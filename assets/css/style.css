@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+.fab {
+    font-size: 3.5em;
+    width: 80px;
+}
+
+.fa-facebook-square {
+    color: blue;
+}
+
+.fa-instagram {
+    color: violet;
+}
+
+.fa-youtube {
+    color: red;
+}
+
+.fa-linkedin-in {
+    color: royalblue;
+}
+
+.fa-whatsapp {
+    color: lime;
+}
